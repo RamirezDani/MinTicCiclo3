@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { guardarDb, consultaUnElementoDb, actualizarDocDataBase, consultaDb } from '../config/firebase'
 import { useHistory, useParams} from 'react-router-dom'
 import {Link} from 'react-router-dom'
+//* Esta es una prueba/
 
 export const CreaProducto = () => {
 
